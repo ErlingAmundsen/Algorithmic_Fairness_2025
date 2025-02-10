@@ -1,4 +1,4 @@
 exercises/*
 solutions/*
 *.ipynb_checkpoints/
-03_Explainability_1/data/
+*/data/
